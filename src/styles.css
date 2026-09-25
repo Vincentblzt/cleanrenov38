@@ -325,7 +325,7 @@
 .crv38 .icon-check{color:var(--gold);}
 .crv38 .icon-cross{color:#5c5850;}
 .crv38 .plan > a.btn{ width:100%; }
-.crv38 .surcharge-note{ margin-top:32px; font-style:italic; color:var(--text-muted); font-size:.9rem; text-align:center; }
+.crv38 .surcharge-note{ margin-top:32px; font-style:italic; color:var(--text-muted); font-size:.9rem; text-align:left; white-space:pre-wrap; word-wrap:break-word; }
 .crv38 .offres-pro{ padding:20px 0 12px; text-align:center; }
 .crv38 .pro-note{ font-size:1.05rem; color:var(--text-muted); max-width:52ch; margin:0 auto; }
 
