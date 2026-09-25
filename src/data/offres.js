@@ -43,5 +43,6 @@ export const offres = [
   },
 ];
 
-export const surchargeNote =
-  "Un supplément de 40 € peut être appliqué en cas de véhicule très sale ou poils d'animaux.";
+export const surchargeNote = `NB :
+* Une majoration forfaitaire de 40€ s'applique pour les SUV
+* Un supplément de 40 € peut être appliqué en cas de véhicule très sale ou poils d'animaux.`;
